@@ -1,2 +1,3 @@
 # ACNHShopCalculator
-能使游戏中大头菜的报价显示为负数
+能快速计算使游戏中大头菜的报价显示为负数的计算器
+请搭配ACNHPoker或NSHE编辑大头菜价格
